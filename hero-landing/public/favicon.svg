@@ -1,0 +1,11 @@
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0" stop-color="#2EA729"/>
+        <stop offset="1" stop-color="#0071E3"/>
+      </linearGradient>
+    </defs>
+    <rect width="128" height="128" rx="28" fill="#0A0D0A"/>
+    <circle cx="100" cy="28" r="45" fill="url(#g)" opacity="0.42"/>
+    <text x="50%" y="54%" text-anchor="middle" dominant-baseline="middle" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="800" letter-spacing="-1">P&amp;B</text>
+  </svg>
